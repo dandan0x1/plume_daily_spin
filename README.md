@@ -1,2 +1,2 @@
-# plume_daily_spin
-plume daily spin
+# plume 每天抽奖+质押
+该脚本为开源脚本，请自行判断脚本是否有问题。本人不承担任何密钥泄露的后续纠纷！
